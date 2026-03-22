@@ -1,6 +1,6 @@
 # Online Course Registration System
 
-A web-based course registration system built with the MERN stack (MongoDB, Express.js, React.js, Node.js).
+A web-based course registration system built with the MERN stack (MongoDB, Express.js, React.js, Node.js)
 
 ## Features
 
